@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.lang.Math;
 
-public class MethodExercises {
+public class MethodsExercises {
     public static int add(int n1, int n2) {
         return n1 + n2;
     }
